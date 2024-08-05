@@ -17,7 +17,7 @@
   "FailFastOutputRegistrationTimeout": "0d 0h 3m 0s",
   "FailFastTransactionSigningTimeout": "0d 0h 0m 30s",
   "RoundExpiryTimeout": "0d 0h 5m 0s",
-  "MaxInputCountByRound": 8,
+  "MaxInputCountByRound": 10,
   "MinInputCountByRoundMultiplier": 0.5,
   "CoordinationFeeRate": {
     "Rate": 0.003,

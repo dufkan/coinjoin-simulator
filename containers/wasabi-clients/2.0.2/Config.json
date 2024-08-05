@@ -12,12 +12,5 @@
         "http://*:37128/"
     ],
     "DustThreshold": "0.00005",
-    "CoordinatorIdentifier": "CoinJoinCoordinatorIdentifier",
-    "PreferPsbtWorkflow": false,
-    "AutoCoinJoin": false,
-    "PlebStopThreshold": "0.01",
-    "AnonScoreTarget": 5,
-    "FeeRateMedianTimeFrameHours": 0,
-    "RedCoinIsolation": false,
-    "ExcludedCoinsFromCoinJoin": []
+    "CoordinatorIdentifier": "CoinJoinCoordinatorIdentifier"
 }
